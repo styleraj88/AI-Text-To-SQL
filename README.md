@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Text To SQL Premium System
 
 ## Project Overview
@@ -434,3 +435,7 @@ Possible future enhancements:
 **Naveen**
 
 AI Text To SQL Premium System using Flask + MySQL + Ollama + Llama3
+=======
+# AI-Text-To-SQL
+AI based Text to SQL generator using Flask, MySQL, Llama3
+>>>>>>> 32cfc55a50d154f90f5be7e2e93de5b416801f1a
